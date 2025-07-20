@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\Estructura de datos\AsignacionAsientos\bin\Debug\net9.0\AsignacionAsientos.exe
+C:\Users\Dell\Documents\Estructura de datos\AsignacionAsientos\bin\Debug\net9.0\AsignacionAsientos.deps.json
+C:\Users\Dell\Documents\Estructura de datos\AsignacionAsientos\bin\Debug\net9.0\AsignacionAsientos.runtimeconfig.json
+C:\Users\Dell\Documents\Estructura de datos\AsignacionAsientos\bin\Debug\net9.0\AsignacionAsientos.dll
+C:\Users\Dell\Documents\Estructura de datos\AsignacionAsientos\bin\Debug\net9.0\AsignacionAsientos.pdb
+C:\Users\Dell\Documents\Estructura de datos\AsignacionAsientos\obj\Debug\net9.0\AsignacionAsientos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\Estructura de datos\AsignacionAsientos\obj\Debug\net9.0\AsignacionAsientos.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\Estructura de datos\AsignacionAsientos\obj\Debug\net9.0\AsignacionAsientos.AssemblyInfo.cs
+C:\Users\Dell\Documents\Estructura de datos\AsignacionAsientos\obj\Debug\net9.0\AsignacionAsientos.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Estructura de datos\AsignacionAsientos\obj\Debug\net9.0\AsignacionAsientos.dll
+C:\Users\Dell\Documents\Estructura de datos\AsignacionAsientos\obj\Debug\net9.0\refint\AsignacionAsientos.dll
+C:\Users\Dell\Documents\Estructura de datos\AsignacionAsientos\obj\Debug\net9.0\AsignacionAsientos.pdb
+C:\Users\Dell\Documents\Estructura de datos\AsignacionAsientos\obj\Debug\net9.0\AsignacionAsientos.genruntimeconfig.cache
+C:\Users\Dell\Documents\Estructura de datos\AsignacionAsientos\obj\Debug\net9.0\ref\AsignacionAsientos.dll
